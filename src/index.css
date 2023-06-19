@@ -153,6 +153,7 @@ input:focus {
   width: 100px;
   height: 40px;
   cursor: pointer;
+  text-align: center;
 }
 
 .btn-primary {
